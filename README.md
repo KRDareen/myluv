@@ -204,3 +204,35 @@
   <a href="finalmessage.html">Lanjutkan</a>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Final Message</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      text-align: center;
+      padding: 50px;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #FF5733;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    a:hover {
+      background-color: #C70039;
+    }
+  </style>
+</head>
+<body>
+  <h1>Please don't let me go...</h1>
+  <p>Don't leave me, don't even think to leave me or stop caring about me. I love you and I don't know how to love someone else or even myself without you.</p>
+</body>
+</html>
